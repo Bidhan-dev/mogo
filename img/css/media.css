@@ -1,0 +1,486 @@
+@media(min-width: 1400px){
+    .banner_overly_content h1{ 
+        font-size: 150px;
+        line-height: 140px; 
+        padding: 0px 434px;
+    }
+    .banner_overly_content::after { 
+        top: 56%; 
+    }
+}
+/* extra large  device css end here  */
+
+
+@media(min-width: 1200px) and (max-width: 1399px){
+    .banner_overly_content::after {
+        top: 57%; 
+    }
+    .banner_overly_content h2 { 
+        font-size: 63px; 
+        margin-bottom: 0;
+    }
+    .banner_overly_content h1 {
+        font-size: 133px;
+        line-height: 122px;
+        padding: 0px 191px;
+    }
+    .button { 
+        bottom: -9%; 
+    }
+    .banner_overly_content { 
+        top: 19%; 
+    }
+    .button {
+        bottom: -14%;
+    }
+}
+@media(min-width: 1205px) and (max-width: 1399px){
+    .banner_overly_content::after {
+        top: 57%; 
+    }
+}
+/*  large  device css end here  */
+
+@media(min-width: 992px) and (max-width: 1199px){
+    .banner_overly_content::after {
+        top: 57%; 
+    }
+    .banner_overly_content h2 { 
+        font-size: 63px; 
+        margin-bottom: 0;
+    }
+    .banner_overly_content h1 {
+        font-size: 111px;
+        line-height: 100px;
+        padding: 0px 155px;
+    } 
+    .button { 
+        bottom: -9%; 
+    }
+    .button a { 
+        padding: 11px 15px; 
+    }
+    .images_overly_content h5 { 
+        font-size: 13px; 
+    }
+    .images_overly_content p { 
+        font-size: 13px; 
+        line-height: 7px; 
+    }
+    .left_footer p { 
+        padding-right: 0px;
+    }
+    .fifteen_k p { 
+        padding-top: 12px;
+    }
+    .follow_head h4 { 
+        padding-right: 10px;
+    }
+    .f_icon i { 
+        padding-right: 13px; 
+    }
+    #work {
+        padding-top: 55px; 
+    }
+} 
+/*   large  device css end here  */
+
+
+@media(min-width: 768px) and (max-width:991px){
+    .navbar { 
+        padding-top: 0; 
+    } 
+    .navbar-nav { 
+        background-color: #f38181;
+        text-align: center;
+    }
+    .navbar-brand { 
+        transform: scale(.8);
+    }
+    /* ------ */
+    .navbar-toggler:focus { 
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link { 
+        color: #000;
+    }
+    .nav-item .nav-link::after { 
+        display: none;
+    }
+    .banner_overly_content { 
+        top: 17%;  
+    }
+    .banner_overly_content h2 { 
+        font-size: 52px; 
+    }
+    .banner_overly_content h1 {
+        font-size: 69px;
+        line-height: 69px;
+        padding: 0px 74px;
+    }
+    .banner_overly_content::after{
+        display: none;
+    } 
+    .button { 
+        bottom: -5%; 
+    }
+    .button a { 
+        font-size: 15px; 
+        padding: 11px 18px; 
+    }
+    .navbar-brand {
+        transform: scale(1.19);
+    }
+    #about_us {
+        padding-top: 53px; 
+    }
+    .about_p p {
+        padding: 0px 0px; 
+    }
+    .about_p { 
+        padding-bottom: 32px;
+    } 
+    .overly_content h3 { 
+        font-size: 15px; 
+    }
+    .pd_top {
+        padding-top: 0px;
+    }
+    .pb{
+        padding-bottom: 40px;
+    }
+    .comment_text p { 
+        font-size: 20px; 
+    }
+    .overly_icon a i {
+        padding: 8px 12px; 
+    }
+    .middle_footer_txt p { 
+        font-size: 13px; 
+        margin: 0;
+    }
+    .left_footer p { 
+        padding-right: 0px;
+    }
+    .follow_head h4 { 
+        padding-right: 10px;
+    }
+    .f_icon i { 
+        padding-right: 10px; 
+    } 
+    .f_btn {
+        position: absolute;
+        top: 0%;
+        left: 60%;
+    }
+    .left_footer_content{
+        margin-top: 75px;
+    }
+    .ft_after::after { 
+        bottom: -2%; 
+    }
+    .last_ft {
+        padding-top: 23px; 
+        text-align: center;
+    }
+    .from_f input {
+        width: 200px; 
+    }
+    .from_f button {
+        width: 136px; 
+    }
+}
+/* medium css start end here  */
+
+
+
+@media(min-width: 576px) and (max-width:767px){
+    .navbar { 
+        padding-top: 0; 
+    } 
+    .navbar-nav { 
+        background-color: #aba7a7;
+    }
+    .navbar-brand { 
+        transform: scale(.8);
+    }
+    /* ------ */
+    .navbar-toggler:focus { 
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link { 
+        color: #000;
+    }
+    .nav-item .nav-link::after { 
+        display: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 4px 28px;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    /* ----  */
+    .banner_overly_content h2 {
+        font-size: 32px;
+    }
+    .banner_overly_content h1 {
+        font-size: 36px;
+        line-height: 41px;
+        padding: 0px 0px;
+    }
+    .banner_overly_content::after { 
+        display: none;
+    }
+    .button a { 
+        padding: 9px 12px; 
+    }
+    #about_us {
+        padding-top: 40px;
+        padding-bottom: 80px;
+    }
+    .about_p p {
+        padding: 0px 0px;
+    }
+    .about_p { 
+        padding-top: 46px;
+        padding-bottom: 23px;
+    }
+    .pd_top {
+        padding-top: 0px;
+    }
+    #services {
+        padding-top: 66px;
+        padding-bottom: 31px;
+    }
+    .service_content2 h3 {
+        text-align: center;
+        padding-top: 18px;
+    }
+    .service_content2 p { 
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    #team_header {
+        padding-top: 67px;
+    }
+    .comment_icon { 
+        margin: 0 auto;
+    }
+    .comment_text { 
+        text-align: center;
+    }
+    .comment_text span { 
+        position: relative; 
+        left: 0px;
+    }
+    .comment_text p { 
+        padding-bottom: 0px;
+        margin-bottom: 0;
+    }
+    .comment_text span::after{
+        display: none;
+    }
+
+    .overly_icon a i {
+        padding: 8px 12px; 
+    }
+    #work {
+        padding-top: 64px; 
+    }
+    .f_btn {
+        position: absolute;
+        top: 0%;
+        left: 48%;
+    }
+    .middle_footer h5 {
+        margin-top: 91px;
+    } 
+    .middle_footer_txt p { 
+        margin-bottom: 0;
+    }
+    .left_footer_content h5 { 
+        margin-top: 46px;
+    }
+    .ft_after::after { 
+        bottom: -2%; 
+    }
+    .last_ft {
+        padding-top: 23px; 
+        text-align: center;
+    }
+}
+/* small device css end here  */
+
+@media (max-width: 575.99px){
+    .navbar { 
+        padding-top: 0; 
+    } 
+    .navbar-nav { 
+        background-color: #aba7a7;
+    }
+    .navbar-brand { 
+        transform: scale(.7);
+    }
+    .banner_overly_content h2 {
+        font-size: 18px;
+    }
+    .banner_overly_content h1 {
+        font-size: 20px;
+        line-height: 20px;
+        padding: 0px 0px;
+    }
+    .button { 
+        bottom: -3%; 
+    }
+    .button a {
+        color: #ffffff;
+        font-size: 13px;
+        padding: 2px 2px;
+    }
+    .banner_overly_content::after { 
+        display: none;
+    }
+   
+    /* ---  */
+    .navbar-toggler:focus { 
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link { 
+        color: #000;
+    }
+    .nav-item .nav-link::after { 
+        display: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 4px 28px;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    #about_us {
+        padding-top: 40px;
+        padding-bottom: 80px;
+    }
+    .about_text h3 { 
+        font-size: 18px; 
+    }
+    .about_text h2 {
+        font-size: 18px;
+    }
+    .about_text::after { 
+        width: 46px;
+        height: 2px; 
+    }
+    .about_p p {
+        padding: 0px 0px;
+        line-height: 20px;
+        font-size: 13px; 
+    }
+    .about_p {
+        padding-top: 38px;
+        padding-bottom: 33px;
+    }
+    #services {
+        padding-top: 50px; 
+    }
+    .about_text h3 {
+        font-size: 15px;
+    }
+    .about_text h2 {
+        font-size: 16px;
+    }
+    .service_text {
+        padding-top: 50px;
+    }
+    .about_text::after {
+        width: 40px; 
+    }
+    .service_content2 h3 { 
+        text-align: center; 
+        padding-top: 15px;
+    }
+    .service_content2 p { 
+        text-align: center;
+    }
+    .service_content2 p { 
+        padding-bottom: 20px;
+    }
+    .pd_top {
+        padding-top: 0px;
+    }
+    #services { 
+        padding-bottom: 24px;
+    }
+    .comment_icon { 
+        margin: 0 auto;
+    }
+    .comment_text { 
+        text-align: center;
+    }
+    .comment_text span { 
+        position: relative; 
+        left: 0px;
+    }
+    .comment_text p { 
+        padding-bottom: 0px;
+        margin-bottom: 0;
+    }
+    .comment_text span::after{
+        display: none;
+    }
+    #team_header {
+        padding-top: 50px;
+    }
+    #work {
+        padding-top: 60px; 
+    }
+    .f_icon i { 
+        padding-right: 15px; 
+    } 
+    #images_section {
+        padding-bottom: 60px;
+    }
+    .fifteen_k p { 
+        padding-top: 10px;
+    }
+    .follow_head h4 { 
+        padding-right: 2px;
+    }
+    .f_icon i {
+        padding-right: 4px;
+    }
+    .middle_footer h5 { 
+        margin-top: 60px;
+    }
+    .mail {
+        position: static;
+    }
+    .f_btn { 
+        left: 0%;
+    }
+    .left_footer_content{
+        margin-top: 75px;
+    }
+    .middle_footer_txt { 
+        top: 12%; 
+        padding-bottom: 33px;
+    }
+    .last_ft {
+        padding-top: 17px; 
+    }
+    .ft_after::after {
+        bottom: -1%; 
+    } 
+    .left_footer p { 
+        padding-right: 0px;
+    }
+
+}
+@media(min-width:405px) and (max-width: 575.99px){
+    .service_content2 p { 
+        padding: 0px 63px;
+    }
+}
+/* extra small device css end here  */
